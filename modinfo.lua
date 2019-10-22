@@ -2,7 +2,7 @@ name = "Lantern glitch"
 
 description = "Lantern glitch is back!"
 author = "MrOroshiX"
-version = "1.0.0"
+version = "1.0.1"
 forumthread = ""
 
 api_version = 6
